@@ -22,7 +22,7 @@ const Navbar = () => {
   return (
    < div className="header">
     <Link to = {"/"}>
-    <h1> Anlil's Portfolio  </h1>
+    <h1> Portfolio  </h1>
     
      </Link>
      <u1 className = {click? "nav-menu active" : "nav-menu"}> 

@@ -24,3 +24,30 @@ ul {
     list-style: none;
 }
 
+.btn {
+    display: inline-block;
+    padding: 12px 24px;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid white; /* White border */
+    background-color: transparent; /* Transparent background */
+    color: white; /* White text */
+    text-decoration: none; /* Remove underline */
+  }
+
+  .btn-light {
+    border-color: #bbb; /* Lighter border color */
+    color: #bbb; /* Lighter text color */
+  }
+  
+  /* Hover Effect for Buttons */
+  .btn:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Slight white background on hover */
+    transform: translateY(-3px); /* Lift effect */
+  }
