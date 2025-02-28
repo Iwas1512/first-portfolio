@@ -25,7 +25,7 @@ const Navbar = () => {
     <h1> Anlil's Portfolio  </h1>
     
      </Link>
-     <u1 className = {click? "nav-menu.active" : "nav-menu"}> 
+     <u1 className = {click? "nav-menu active" : "nav-menu"}> 
         <li>
             <Link to = "/">Home</Link>
         </li>
