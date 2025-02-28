@@ -10,7 +10,7 @@ import { FaBars, FaTimes } from "react-icons/fa";
 
 
 const Navbar = () => {
-    const [click, setClick] = useState(false);
+    const [click, setClick] = useState(false); 
     const handleClick = () => setClick(!click);
 
 
@@ -25,7 +25,7 @@ const Navbar = () => {
     <h1> Anlil's Portfolio  </h1>
     
      </Link>
-     <u1 className = "nav-menu"> 
+     <u1 className = {click? "nav-menu.active" : "nav-menu"}> 
         <li>
             <Link to = "/">Home</Link>
         </li>
@@ -42,9 +42,10 @@ const Navbar = () => {
 
      </u1>
 
-     <div className = "hamburger">
-        <FaTimes size={20} style={{color:"fff"}} />
-        <FaBars size={20} style={{color:"fff"}} />
+     <div className = "hamburger" onClick = {handleClick}> 
+        {click? <FaTimes size={20} style={{color:"fff"}} /> : (<FaBars size={20} style={{color:"fff"}} />)}
+        
+        
      </div>
 
     </div>
