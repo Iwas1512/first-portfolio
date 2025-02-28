@@ -26,7 +26,7 @@ const HeroImg = () => {
 
         <div className = "content"> 
             <p> Full Stack Software Engineer</p>
-            <h1> Computer Science Undergrad|@ UIC </h1>
+            <h1> Computer Science Undergrad @UIC </h1>
 
             <div>
                 <Link to = "/projects" className="btn">Projects </Link>

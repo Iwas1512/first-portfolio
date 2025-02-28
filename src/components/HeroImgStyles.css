@@ -37,7 +37,40 @@
 .hero .content {
     position: absolute;
     transform: translate(-50%, 50%);
-    top: 30%;
+    top: 3%;
     left: 50%;
     text-align: center;
+}
+
+.hero .content h1 {
+    font-size: 4rem;
+    padding: 0.6rem 0 1.5rem;
+    
+}
+
+.hero .content p {
+    font-size: 1.5rem;
+    fonmt-weight: 200;
+    text-transform: uppercase;
+}
+
+.content .btn
+{
+    margin: 1rem 0.6rem;
+}
+
+@media screen and (max-width: 640px) {
+    .hero .content h1 {
+        font-size: 3rem;
+        
+        
+    }
+    
+    .hero .content p {
+        font-size: 1.5rem;
+        
+    }
+    
+
+    
 }
