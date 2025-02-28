@@ -14,7 +14,7 @@ const HeroImg = () => {
   return (
     <div className = "hero">
         <div className = "mask">
-            <img className = "into-img" src = {IntroImg} alt = {IntroImg} />
+            <img className = "intro-img" src = {IntroImg} alt = {IntroImg} />
             
         
         

@@ -49,5 +49,5 @@ ul {
   /* Hover Effect for Buttons */
   .btn:hover {
     background-color: rgba(255, 255, 255, 0.1); /* Slight white background on hover */
-    transform: translateY(-3px); /* Lift effect */
+    transform: translateY(-10px); /* Lift effect */
   }
