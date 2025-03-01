@@ -6,15 +6,15 @@ import HeroImg2 from '../components/HeroImg2'
 
 
 
-const Contact = () => {
+const Review = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading = "CONTACT/Submit Review"text="Submit a Review Here/Contact me"/>
+      <HeroImg2 heading = "Reviews"text = "Official Submitted Overall Reviews of Anlil:"/>
       <Footer/>
     
     </div>
   )
 }
 
-export default Contact
+export default Review

@@ -54,7 +54,10 @@ const Navbar = () => {
             <Link to = "/about">About</Link>
         </li>
         <li>
-            <Link to = "/contact">Contact</Link>
+            <Link to = "/contact">Contact/Submit Review</Link>
+        </li>
+        <li>
+            <Link to = "/review">Reviews</Link>
         </li>
 
 
