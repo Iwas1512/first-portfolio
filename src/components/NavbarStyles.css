@@ -65,3 +65,29 @@
     }
     
 }
+
+
+.social-icons { 
+    display: flex;
+    align-items: center;
+    margin-right: 2rem;
+}
+
+.social-icons a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+    transform: translateY(-3px);
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 1040px) {
+    .social-icons {
+        position: absolute;
+        right: 90px;
+    }
+}
