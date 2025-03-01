@@ -1,8 +1,9 @@
 {
+  "homepage": " https://iwas1512.github.io/first-portfolio/",
  
   "version": "0.1.0",
  
-  "private": true,
+  "private": false,
  
   "dependencies": {
  
@@ -42,6 +43,8 @@
  
    
   "start": "react-scripts start",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
  
    
   "build": "react-scripts build",
