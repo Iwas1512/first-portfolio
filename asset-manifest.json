@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/www.anliliwas.com/static/css/main.649ca065.css",
-    "main.js": "/www.anliliwas.com/static/js/main.4e5412ce.js",
-    "static/media/mechillen.jpeg": "/www.anliliwas.com/static/media/mechillen.0df03326b2f1180ca8b3.jpeg",
-    "static/media/myloveandi.jpeg": "/www.anliliwas.com/static/media/myloveandi.563d973a2671fe1ad8fa.jpeg",
-    "static/media/meowmeowthegoat.jpg": "/www.anliliwas.com/static/media/meowmeowthegoat.a7306dd46ab318383628.jpg",
-    "static/media/goat.jpg": "/www.anliliwas.com/static/media/goat.e5403c36dd59b2521d52.jpg",
-    "static/media/cooler.jpg": "/www.anliliwas.com/static/media/cooler.9279830454c0653a9525.jpg",
-    "static/media/betterhtml.webp": "/www.anliliwas.com/static/media/betterhtml.0e1253f07854fa76365b.webp",
-    "static/media/nodejs-icon-2048x2048-rueyo8fw.png": "/www.anliliwas.com/static/media/nodejs-icon-2048x2048-rueyo8fw.14cdee7fa498e8a7c7d3.png",
-    "static/media/C_Sharp_Logo_2023.svg.png": "/www.anliliwas.com/static/media/C_Sharp_Logo_2023.svg.a7a2a4ad568eb49f659d.png",
-    "static/media/csslogo.webp": "/www.anliliwas.com/static/media/csslogo.ddb229b517386b53ce4f.webp",
-    "static/media/java-logo.png": "/www.anliliwas.com/static/media/java-logo.84d3d3773de53facd74b.png",
-    "static/media/6132222.png": "/www.anliliwas.com/static/media/6132222.24a8f93854ab092f17a7.png",
-    "static/media/coolthing.jpg": "/www.anliliwas.com/static/media/coolthing.0155844c20f3fb081e79.jpg",
-    "static/media/reactbetter.webp": "/www.anliliwas.com/static/media/reactbetter.dcaf883c6984253b099d.webp",
-    "static/media/jsicon.webp": "/www.anliliwas.com/static/media/jsicon.6acd0b4d29ebe29e4430.webp",
-    "static/media/mysql logo.png": "/www.anliliwas.com/static/media/mysql logo.4676ad983d6bd3e9fac9.png",
-    "static/media/267_Python-512.webp": "/www.anliliwas.com/static/media/267_Python-512.d7e51f27ee9bb081cea7.webp",
-    "index.html": "/www.anliliwas.com/index.html",
-    "main.649ca065.css.map": "/www.anliliwas.com/static/css/main.649ca065.css.map",
-    "main.4e5412ce.js.map": "/www.anliliwas.com/static/js/main.4e5412ce.js.map"
+    "main.css": "/first-portfolio/static/css/main.649ca065.css",
+    "main.js": "/first-portfolio/static/js/main.0ad64d76.js",
+    "static/media/mechillen.jpeg": "/first-portfolio/static/media/mechillen.0df03326b2f1180ca8b3.jpeg",
+    "static/media/myloveandi.jpeg": "/first-portfolio/static/media/myloveandi.563d973a2671fe1ad8fa.jpeg",
+    "static/media/meowmeowthegoat.jpg": "/first-portfolio/static/media/meowmeowthegoat.a7306dd46ab318383628.jpg",
+    "static/media/goat.jpg": "/first-portfolio/static/media/goat.e5403c36dd59b2521d52.jpg",
+    "static/media/cooler.jpg": "/first-portfolio/static/media/cooler.9279830454c0653a9525.jpg",
+    "static/media/betterhtml.webp": "/first-portfolio/static/media/betterhtml.0e1253f07854fa76365b.webp",
+    "static/media/nodejs-icon-2048x2048-rueyo8fw.png": "/first-portfolio/static/media/nodejs-icon-2048x2048-rueyo8fw.14cdee7fa498e8a7c7d3.png",
+    "static/media/C_Sharp_Logo_2023.svg.png": "/first-portfolio/static/media/C_Sharp_Logo_2023.svg.a7a2a4ad568eb49f659d.png",
+    "static/media/csslogo.webp": "/first-portfolio/static/media/csslogo.ddb229b517386b53ce4f.webp",
+    "static/media/java-logo.png": "/first-portfolio/static/media/java-logo.84d3d3773de53facd74b.png",
+    "static/media/6132222.png": "/first-portfolio/static/media/6132222.24a8f93854ab092f17a7.png",
+    "static/media/coolthing.jpg": "/first-portfolio/static/media/coolthing.0155844c20f3fb081e79.jpg",
+    "static/media/reactbetter.webp": "/first-portfolio/static/media/reactbetter.dcaf883c6984253b099d.webp",
+    "static/media/jsicon.webp": "/first-portfolio/static/media/jsicon.6acd0b4d29ebe29e4430.webp",
+    "static/media/mysql logo.png": "/first-portfolio/static/media/mysql logo.4676ad983d6bd3e9fac9.png",
+    "static/media/267_Python-512.webp": "/first-portfolio/static/media/267_Python-512.d7e51f27ee9bb081cea7.webp",
+    "index.html": "/first-portfolio/index.html",
+    "main.649ca065.css.map": "/first-portfolio/static/css/main.649ca065.css.map",
+    "main.0ad64d76.js.map": "/first-portfolio/static/js/main.0ad64d76.js.map"
   },
   "entrypoints": [
     "static/css/main.649ca065.css",
-    "static/js/main.4e5412ce.js"
+    "static/js/main.0ad64d76.js"
   ]
 }
