@@ -34,11 +34,17 @@ const Footer = () => {
 
             <div className = "right"> 
                  <h4> Quick About Me </h4>
-                 <p> My name is Anlil Iwas, a Software Engineer currently based in the Greater Chicago Area. I love building and devloping.  
+                 <p> My name is Anlil Iwas, a Software Engineer currently based in the Greater Chicago Area. I love building and devloping, checkout my socials!  
                      </p>
                     <div className="socials">
-                    <FaLinkedin size = {30} style = {{color: "#fff", marginRight: "1rem"}}/>
-                    <FaGithub size = {30} style = {{color: "#fff", marginRight: "1rem"}}/>
+                    <a href="https://www.linkedin.com/in/anlil-iwas-b7aa892a9" target="_blank" rel="noopener noreferrer">
+                                        <FaLinkedin size={24} style={{ color: "#fff",  marginRight: "1rem"}} />      
+                                    </a>
+
+                    <a href="https://github.com/Iwas1512" target="_blank" rel="noopener noreferrer">
+                                        <FaGithub size={24} style={{ color: "#fff", marginRight: "1rem" }} />
+                                    </a>
+                    
                          
 
                     </div>

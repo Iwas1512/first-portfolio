@@ -10,7 +10,7 @@ const Review = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading = "Reviews"text = "Official Submitted Overall Reviews of Anlil:"/>
+      <HeroImg2 heading = "Reviews (Coming Soon, im lazy rn)"text = "Official Submitted Overall Reviews of Anlil:"/>
       <Footer/>
     
     </div>
