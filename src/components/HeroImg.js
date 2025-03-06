@@ -29,8 +29,8 @@ const HeroImg = () => {
 
         <div className = "content"> 
             <img className="avatar" src = {AvatarImg} alt = {AvatarImg} />
-            <p>  Software Engineer</p>
-            <h1> Welcome To My Portfolio!</h1>
+            <p>  Anlil Iwas</p>
+            <h1> Software Engineer</h1>
             <div>
                 <Link to = "/projects" className="btn">Projects </Link>
                 <Link to = "/contact" className="btn btn-secondary">Contact Me </Link>

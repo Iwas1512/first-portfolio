@@ -27,7 +27,7 @@ const Form = () => {
     emailjs
       .sendForm(
         'service_6sn2cmj', // Replace with your EmailJS service ID
-        'template_ijje30m', // Replace with your EmailJS template ID
+        'template_p7dxv2d', // Replace with your EmailJS template ID
         e.target, // the form element
         'WOyxHD7YO8ej3Rbi3' // Replace with your EmailJS user ID
       )
