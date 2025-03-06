@@ -36,8 +36,8 @@
 }
 .hero .content {
     position: absolute;
-    transform: translate(-50%, 50%);
-    top: -14%;
+    transform: translate(-50%, -50%);
+    top: 50%;
     left: 50%;
     text-align: center;
 }
