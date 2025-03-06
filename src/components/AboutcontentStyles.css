@@ -1,0 +1,35 @@
+.about-content {
+  text-align: center;
+  padding: 0.5rem 2rem 2rem 2rem;
+  background: linear-gradient(to right, rgba(73, 72, 72, 0.4), rgba(12, 11, 11, 0.8));
+
+  border-radius: 10px;
+}
+
+.about-content h2 {
+  color: #ffffff; /* Change this to your desired color */
+
+  padding: 0.5rem; /* Adjust padding to make the bar thinner */
+  display: inline-block; /* Make the background fit the text */
+  border-radius: 5px; /* Optional: Add rounded corners */
+}
+
+.languages {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.language {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.language-icon {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 0.5rem;
+  border-radius: 50%;
+}
