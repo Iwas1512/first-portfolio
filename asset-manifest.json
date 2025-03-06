@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.649ca065.css",
-    "main.js": "/static/js/main.5e9735b9.js",
-    "static/media/mechillen.jpeg": "/static/media/mechillen.0df03326b2f1180ca8b3.jpeg",
-    "static/media/myloveandi.jpeg": "/static/media/myloveandi.563d973a2671fe1ad8fa.jpeg",
-    "static/media/meowmeowthegoat.jpg": "/static/media/meowmeowthegoat.a7306dd46ab318383628.jpg",
-    "static/media/goat.jpg": "/static/media/goat.e5403c36dd59b2521d52.jpg",
-    "static/media/cooler.jpg": "/static/media/cooler.9279830454c0653a9525.jpg",
-    "static/media/betterhtml.webp": "/static/media/betterhtml.0e1253f07854fa76365b.webp",
-    "static/media/nodejs-icon-2048x2048-rueyo8fw.png": "/static/media/nodejs-icon-2048x2048-rueyo8fw.14cdee7fa498e8a7c7d3.png",
-    "static/media/C_Sharp_Logo_2023.svg.png": "/static/media/C_Sharp_Logo_2023.svg.a7a2a4ad568eb49f659d.png",
-    "static/media/csslogo.webp": "/static/media/csslogo.ddb229b517386b53ce4f.webp",
-    "static/media/java-logo.png": "/static/media/java-logo.84d3d3773de53facd74b.png",
-    "static/media/6132222.png": "/static/media/6132222.24a8f93854ab092f17a7.png",
-    "static/media/coolthing.jpg": "/static/media/coolthing.0155844c20f3fb081e79.jpg",
-    "static/media/reactbetter.webp": "/static/media/reactbetter.dcaf883c6984253b099d.webp",
-    "static/media/jsicon.webp": "/static/media/jsicon.6acd0b4d29ebe29e4430.webp",
-    "static/media/mysql logo.png": "/static/media/mysql logo.4676ad983d6bd3e9fac9.png",
-    "static/media/267_Python-512.webp": "/static/media/267_Python-512.d7e51f27ee9bb081cea7.webp",
-    "index.html": "/index.html",
-    "main.649ca065.css.map": "/static/css/main.649ca065.css.map",
-    "main.5e9735b9.js.map": "/static/js/main.5e9735b9.js.map"
+    "main.css": "/anliliwas.com/static/css/main.649ca065.css",
+    "main.js": "/anliliwas.com/static/js/main.83a10f86.js",
+    "static/media/mechillen.jpeg": "/anliliwas.com/static/media/mechillen.0df03326b2f1180ca8b3.jpeg",
+    "static/media/myloveandi.jpeg": "/anliliwas.com/static/media/myloveandi.563d973a2671fe1ad8fa.jpeg",
+    "static/media/meowmeowthegoat.jpg": "/anliliwas.com/static/media/meowmeowthegoat.a7306dd46ab318383628.jpg",
+    "static/media/goat.jpg": "/anliliwas.com/static/media/goat.e5403c36dd59b2521d52.jpg",
+    "static/media/cooler.jpg": "/anliliwas.com/static/media/cooler.9279830454c0653a9525.jpg",
+    "static/media/betterhtml.webp": "/anliliwas.com/static/media/betterhtml.0e1253f07854fa76365b.webp",
+    "static/media/nodejs-icon-2048x2048-rueyo8fw.png": "/anliliwas.com/static/media/nodejs-icon-2048x2048-rueyo8fw.14cdee7fa498e8a7c7d3.png",
+    "static/media/C_Sharp_Logo_2023.svg.png": "/anliliwas.com/static/media/C_Sharp_Logo_2023.svg.a7a2a4ad568eb49f659d.png",
+    "static/media/csslogo.webp": "/anliliwas.com/static/media/csslogo.ddb229b517386b53ce4f.webp",
+    "static/media/java-logo.png": "/anliliwas.com/static/media/java-logo.84d3d3773de53facd74b.png",
+    "static/media/6132222.png": "/anliliwas.com/static/media/6132222.24a8f93854ab092f17a7.png",
+    "static/media/coolthing.jpg": "/anliliwas.com/static/media/coolthing.0155844c20f3fb081e79.jpg",
+    "static/media/reactbetter.webp": "/anliliwas.com/static/media/reactbetter.dcaf883c6984253b099d.webp",
+    "static/media/jsicon.webp": "/anliliwas.com/static/media/jsicon.6acd0b4d29ebe29e4430.webp",
+    "static/media/mysql logo.png": "/anliliwas.com/static/media/mysql logo.4676ad983d6bd3e9fac9.png",
+    "static/media/267_Python-512.webp": "/anliliwas.com/static/media/267_Python-512.d7e51f27ee9bb081cea7.webp",
+    "index.html": "/anliliwas.com/index.html",
+    "main.649ca065.css.map": "/anliliwas.com/static/css/main.649ca065.css.map",
+    "main.83a10f86.js.map": "/anliliwas.com/static/js/main.83a10f86.js.map"
   },
   "entrypoints": [
     "static/css/main.649ca065.css",
-    "static/js/main.5e9735b9.js"
+    "static/js/main.83a10f86.js"
   ]
 }
