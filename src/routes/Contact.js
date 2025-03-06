@@ -11,7 +11,7 @@ const Contact = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading = "CONTACT"text="Contact Me"/>
+      <HeroImg2 heading = "CONTACT"text="Please Contact Me, I will always try to respond to your message within 1 buisness day!"/>
       <Form/> 
       <Footer/>
     
