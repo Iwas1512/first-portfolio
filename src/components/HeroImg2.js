@@ -18,4 +18,6 @@ class HeroImg2 extends Component  {
  
 }
 
+
+
 export default HeroImg2
