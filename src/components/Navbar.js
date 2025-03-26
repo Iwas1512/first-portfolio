@@ -43,7 +43,7 @@ const Navbar = () => {
     <h1> Portfolio  </h1>
 
      </Link>
-     <u1 className = {click? "nav-menu active" : "nav-menu"}> 
+     <ul className = {click? "nav-menu active" : "nav-menu"}> 
         <li>
             <Link to = "/">Home</Link>
         </li>
@@ -59,7 +59,7 @@ const Navbar = () => {
     
 
 
-     </u1>
+     </ul>
 
 
      <div className="social-icons">

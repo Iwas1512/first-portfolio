@@ -11,6 +11,11 @@ const Projects = () => {
   return (
     <div>
       <Navbar/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
       <HeroImg2 heading = "PROJECTS (Coming Soon)"text = "Here are Some of My Featured Projects!"/>
       <Work/>
       <Footer/>

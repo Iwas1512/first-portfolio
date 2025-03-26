@@ -11,6 +11,12 @@ import cssicon from '../assets/csslogo.webp';
 import nodeicon from '../assets/nodejs-icon-2048x2048-rueyo8fw.png';
 import springBoot from '../assets/spring-boot-logo.png'
 import mySqllogo from '../assets/mysql logo.png';
+import MongoDB from '../assets/mongodb.jpg';
+import Firebase from '../assets/firebase.jpg';
+import tailwind from '../assets/tailwind.jpg';
+import vite from '../assets/vitejs.jpg';
+
+
 import { Link } from "react-router-dom";
 // Add more imports for other language icons as needed
 
@@ -71,6 +77,28 @@ const Aboutcontent = () => {
           <img src={mySqllogo} alt="sql" className="language-icon" />
           <p>MySQL</p>
         </div>
+
+        <div className="language">
+          <img src={MongoDB} alt="sql" className="language-icon" />
+          <p>MongoDB</p>
+        </div>
+        <div className="language">
+          <img src={Firebase} alt="sql" className="language-icon" />
+          <p>Firebase</p>
+        </div>
+        <div className="language">
+          <img src={tailwind} alt="sql" className="language-icon" />
+          <p>tailwindCSS</p>
+        </div>
+
+        <div className="language">
+          <img src={vite} alt="sql" className="language-icon" />
+          <p>Vite</p>
+        </div>
+
+
+
+
 
 
        

@@ -18,6 +18,7 @@ const Work = () => {
                 text = {val.text}
                 view = {val.view}
                 source = {val.source}
+                technologies={val.technologies}
 
                 
                 />

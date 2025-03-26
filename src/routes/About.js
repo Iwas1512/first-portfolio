@@ -16,7 +16,7 @@ const About = () => {
       <br/>
       <br/>
       <br/>
-      <HeroImg2 heading= "ABOUT ME"text="Hey, my name is Anlil Iwas! As you can tell, I love coding :3. Well, specifically, I love engineering. The feeling of building something from scratch and seeing it boot up is just addicting. I’m hooked! This has been my passion for a couple of years now, and I’m continuing it with my studies at the University of Illinois at Chicago (UIC).
+      <HeroImg2 heading= "ABOUT ME"text="Hi, my name is Anlil Iwas! As you can tell, I love coding :3. Well, specifically, I love engineering. The feeling of building something from scratch and seeing it boot up is just addicting. I’m hooked! This has been my passion for a couple of years now, and I’m continuing it with my studies at the University of Illinois at Chicago (UIC).
 
 When I’m not coding, I enjoy going to the gym, gaming, hanging out with my friends, and spending time with my amazing girlfriend. I’m also a huge fan of cats, dogs, or really any kind of pet! Lately, I’ve been working on mastering Full-Stack Development.
 

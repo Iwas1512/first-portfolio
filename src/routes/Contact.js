@@ -11,6 +11,12 @@ const Contact = () => {
   return (
     <div>
       <Navbar/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+   
       <HeroImg2 heading = "CONTACT"text="Please Contact Me, I will always try to respond to your message within 1 buisness day!"/>
       <Form/> 
       <Footer/>

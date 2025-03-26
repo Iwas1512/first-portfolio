@@ -23,18 +23,18 @@ const Footer = () => {
                     +1(224)-605-8635 </h4>
                     
                      </div>
-
-                     <div className="email"> 
-                    <h4> <FaMailBulk size = {20} style = {{color: "#fff", marginRight: "2rem"}}/>
-                    anliliwas1@gmail.com </h4>
-                    
-                     </div>
+                     <div className="email">
+                    <h4>
+                        <FaMailBulk size={20} style={{color: "#fff", marginRight: "2rem"}}/>
+                        <a href="mailto:anliliwas1@gmail.com">anliliwas1@gmail.com</a>
+                    </h4>                                        
+                </div>
             
              </div>
 
             <div className = "right"> 
-                 <h4> Quick About Me </h4>
-                 <p> My name is Anlil Iwas, a Software Engineer currently based in the Greater Chicago Area. I love building and devloping, checkout my socials!  
+                 <h4>Quick About Me </h4>
+                 <p> Hi, My name is Anlil Iwas, I am  a Software Engineer currently based in the Greater Chicago Area. I love building and developing, checkout my socials!  
                      </p>
                     <div className="socials">
                     <a href="https://www.linkedin.com/in/anlil-iwas-b7aa892a9" target="_blank" rel="noopener noreferrer">
