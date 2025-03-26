@@ -24,4 +24,4 @@ A personal portfolio website built with React showcasing my projects, skills, an
 4. Deploy to GitHub Pages: `npm run deploy`
 
 ## View Live
-Visit my portfolio at [https://iwas1512.github.io](https://iwas1512.github.io)
+Visit my portfolio at [here](https://anliliwas.com)
