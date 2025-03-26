@@ -16,7 +16,7 @@ const Projects = () => {
       <br/>
       <br/>
       <br/>
-      <HeroImg2 heading = "PROJECTS (Coming Soon)"text = "Here are Some of My Featured Projects!"/>
+      <HeroImg2 heading = "PROJECTS"text = "Below are my featured projects that showcase my development skills across different technologies. Each project card includes a detailed description, screenshots, and the tech stack used. All projects have source code available on GitHub and demonstration videos for a closer look at functionality. Feel free to explore and reach out if you have any questions about implementation details."/>
       <Work/>
       <Footer/>
     

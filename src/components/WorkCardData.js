@@ -1,6 +1,8 @@
 import pro1 from '../assets/moviesproject.webp';
-import pro2 from '../assets/coolthing.jpg';
+import pro2 from '../assets/travbot.webp';
 import pro3 from '../assets/Minecraft.jpg';
+import pro4 from '../assets/portimg.webp';
+
 
 const ProjectCardData = [
     {
@@ -13,10 +15,10 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro2,
-        title: "AI-Travel-Planner (Coming Soon)",
-        text: "Uploading Soon",
-        view: "https://youtube.com/",
-        source: "https://github.com/Iwas1512/Tic-Tac-Toe-Java",
+        title: "TravBot:AI-Travel-Planner",
+        text: "TravBot harnesses AI to create personalized travel itineraries based on your destination, trip duration, budget, and travel companions. Using Google's Gemini 2.0 AI, it quickly generates comprehensive travel plans with hotel recommendations, detailed daily schedules, and attraction information with optimal visiting times. The app saves you hours of research by intelligently organizing your trip according to your specific preferences and constraints. While deployed on Vercel, TravBot remains private due to the high costs of Google API usage at scale, but interested users can request access or create their own version using the GitHub source code with personal API keys or simply contacting me as I will send you a link to the deployed private site.",
+        view: "https://youtu.be/I3TibSA7qTo",
+        source: "https://github.com/Iwas1512/TravBot--The-AI-Travel-Planner",
         technologies: ["React", "Firebase", "tailwindCSS","Vite", "GeminiAPI", "GoogleAPI"]
     },
     {
@@ -26,6 +28,14 @@ const ProjectCardData = [
         view: "https://www.youtube.com/watch?v=qbRyaSbcVTs",
         source: "https://github.com/Iwas1512/coolTools-Minecraft-Plugin",
         technologies: ["Java", "Bukkit", "Spigot"]
+    },
+    {
+        imgsrc: pro4,
+        title: "This Website",
+        text: "This portfolio website demonstrates my web design capabilities through modern UI/UX principles, featuring responsive layouts, elegant animations, and interactive elements that enhance user engagement. The project showcases my front-end development skills with React, custom CSS animations, and thoughtful component architecture while implementing practical features like EmailJS integration for direct communication.",
+        view: "https://youtu.be/tEaearGaP5k",
+        source: "https://github.com/Iwas1512/first-portfolio",
+        technologies: ["React", "CSS", "HTML"]
     }
 ];
 

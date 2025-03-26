@@ -17,8 +17,8 @@ const Contact = () => {
       <br/>
       <br/>
    
-      <HeroImg2 heading = "CONTACT"text="Please Contact Me, I will always try to respond to your message within 1 buisness day!"/>
-      <Form/> 
+      <HeroImg2 heading = "CONTACT"text="Please complete the form below, and I'll respond to your message within one business day"/>
+      <Form/>  
       <Footer/>
     
     </div>

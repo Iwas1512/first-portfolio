@@ -20,7 +20,7 @@ import tailwind from '../assets/tailwind.jpg';
 import vite from '../assets/vitejs.jpg';
 import gemini from '../assets/gemini.jpg';
 import googleapi from '../assets/googleapi.png';
-import spidgot from '../assets/spidgot.jpg'
+import spigot from '../assets/spidgot.jpg'
 import bukkit from '../assets/bukkit.jpg'
 
 
@@ -45,7 +45,7 @@ const WorkCard = (props) => {
       Vite : vite,
       GoogleAPI : googleapi,
       GeminiAPI : gemini,
-      Spidgot : spidgot,
+      Spigot : spigot,
       Bukkit : bukkit
 
     };
