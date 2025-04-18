@@ -23,5 +23,5 @@ A personal portfolio website built with React showcasing my projects, skills, an
 3. Run locally: `npm start`
 4. Deploy to GitHub Pages: `npm run deploy`
 
-## View Live
+## View Live:
 Visit my portfolio at [here](https://anliliwas.com)
