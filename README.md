@@ -10,7 +10,7 @@ A personal portfolio website built with React showcasing my projects, skills, an
 - Contact form powered by EmailJS
 - About section with personal background
 
-## Technologies Used
+## Technologies Used:
 - React 19
 - React Router v7
 - CSS with custom animations
