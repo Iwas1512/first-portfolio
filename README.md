@@ -2,7 +2,7 @@
 
 A personal portfolio website built with React showcasing my projects, skills, and experience as a software engineer.
 
-## Features
+## Features:
 - Responsive design for all devices
 - Interactive UI with smooth animations
 - Project showcase with links to demos and source code
