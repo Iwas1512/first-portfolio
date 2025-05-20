@@ -8,6 +8,8 @@ import Aboutcontent2 from '../components/Aboutcontent2'
 
 
 const About = () => {
+  
+  
   return (
     <div>
       <Navbar/>

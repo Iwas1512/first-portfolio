@@ -1,11 +1,21 @@
 import "./BlogCardStyles.css";
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 const BlogCard = (props) => {
+  const navigate = useNavigate();
+  
+  // Format the date nicely
   const formatDate = (dateString) => {
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
     return new Date(dateString).toLocaleDateString(undefined, options);
+  };
+  
+  // Custom navigation handler to scroll to top before navigating
+  const handleReadMore = (e) => {
+    e.preventDefault();
+    window.scrollTo(0, 0);
+    navigate(`/blog/${props.id}`);
   };
 
   return (
@@ -33,9 +43,13 @@ const BlogCard = (props) => {
       </div>
       
       <div className="blog-footer">
-        <Link to={`/blog/${props.id}`} className="blog-read-more">
+        <a 
+          href={`/blog/${props.id}`}
+          className="blog-read-more"
+          onClick={handleReadMore}
+        >
           Read More
-        </Link>
+        </a>
       </div>
     </div>
   );
