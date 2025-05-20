@@ -78,6 +78,7 @@
     font-size: 1.5rem;
     position: relative;
     transition: color 0.3s ease;
+    text-align: center;
 }
 
 .project-card:hover .project-title {
