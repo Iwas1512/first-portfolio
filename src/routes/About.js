@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import HeroImg2 from '../components/HeroImg2'
@@ -8,7 +8,11 @@ import Aboutcontent2 from '../components/Aboutcontent2'
 
 
 const About = () => {
-  
+ 
+    useEffect(() => {
+      window.scrollTo(0, 0);
+    }, []);
+
   
   return (
     <div>
