@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c289f8e.css",
-    "main.js": "/static/js/main.4c33fe78.js",
+    "main.css": "/static/css/main.219e11b9.css",
+    "main.js": "/static/js/main.1f30958e.js",
     "static/media/mechillen.jpeg": "/static/media/mechillen.0df03326b2f1180ca8b3.jpeg",
     "static/media/myloveandi.jpeg": "/static/media/myloveandi.563d973a2671fe1ad8fa.jpeg",
     "static/media/meowmeowthegoat.jpg": "/static/media/meowmeowthegoat.a7306dd46ab318383628.jpg",
     "static/media/goat.jpg": "/static/media/goat.e5403c36dd59b2521d52.jpg",
     "static/media/Minecraft.jpg": "/static/media/Minecraft.86bec52fd61ebf16d01e.jpg",
+    "static/media/taskmanagerpic.png": "/static/media/taskmanagerpic.3f753a4f5c06d305eb4e.png",
     "static/media/cooler.jpg": "/static/media/cooler.9279830454c0653a9525.jpg",
     "static/media/betterhtml.webp": "/static/media/betterhtml.0e1253f07854fa76365b.webp",
+    "static/media/underconst.jpg": "/static/media/underconst.cc1e80bcadc7b7a453f8.jpg",
     "static/media/nodejs-icon-2048x2048-rueyo8fw.png": "/static/media/nodejs-icon-2048x2048-rueyo8fw.14cdee7fa498e8a7c7d3.png",
     "static/media/vitejs.jpg": "/static/media/vitejs.f7a91f5d32d3db6bffa0.jpg",
     "static/media/C_Sharp_Logo_2023.svg.png": "/static/media/C_Sharp_Logo_2023.svg.a7a2a4ad568eb49f659d.png",
     "static/media/tailwind.jpg": "/static/media/tailwind.479d7a8b4dc069959b65.jpg",
     "static/media/travbot.webp": "/static/media/travbot.5e2b4e364d5e838b66ba.webp",
+    "static/media/postglogo.png": "/static/media/postglogo.41d30ac9e052b399fa3e.png",
     "static/media/moviesproject.webp": "/static/media/moviesproject.83a5da988a201c484e4e.webp",
     "static/media/csslogo.webp": "/static/media/csslogo.ddb229b517386b53ce4f.webp",
     "static/media/java-logo.png": "/static/media/java-logo.84d3d3773de53facd74b.png",
+    "static/media/Amazon_Web_Services_Logo.svg.png": "/static/media/Amazon_Web_Services_Logo.svg.a89fd636dfb4197f8a9c.png",
+    "static/media/react-native.png": "/static/media/react-native.95b6f2bac5acc1db0aef.png",
     "static/media/6132222.png": "/static/media/6132222.24a8f93854ab092f17a7.png",
     "static/media/bukkit.jpg": "/static/media/bukkit.9ad5a10dc761f838a067.jpg",
     "static/media/portimg.webp": "/static/media/portimg.7dd88b18dcb630fc760c.webp",
@@ -26,11 +31,11 @@
     "static/media/mysql logo.png": "/static/media/mysql logo.4676ad983d6bd3e9fac9.png",
     "static/media/267_Python-512.webp": "/static/media/267_Python-512.d7e51f27ee9bb081cea7.webp",
     "index.html": "/index.html",
-    "main.9c289f8e.css.map": "/static/css/main.9c289f8e.css.map",
-    "main.4c33fe78.js.map": "/static/js/main.4c33fe78.js.map"
+    "main.219e11b9.css.map": "/static/css/main.219e11b9.css.map",
+    "main.1f30958e.js.map": "/static/js/main.1f30958e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c289f8e.css",
-    "static/js/main.4c33fe78.js"
+    "static/css/main.219e11b9.css",
+    "static/js/main.1f30958e.js"
   ]
 }
