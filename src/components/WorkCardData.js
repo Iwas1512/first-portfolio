@@ -2,6 +2,9 @@ import pro1 from '../assets/moviesproject.webp';
 import pro2 from '../assets/travbot.webp';
 import pro3 from '../assets/Minecraft.jpg';
 import pro4 from '../assets/portimg.webp';
+import pro5 from '../assets/taskmanagerpic.png';
+import pro6 from '../assets/underconst.jpg'; 
+
 
 
 const ProjectCardData = [
@@ -36,7 +39,24 @@ const ProjectCardData = [
         view: "https://youtu.be/tEaearGaP5k",
         source: "https://github.com/Iwas1512/first-portfolio",
         technologies: ["React", "CSS", "HTML"]
-    }
+    },
+    {
+        imgsrc: pro5,
+        title: "Task Manager App (Mobile App and Web App)",
+        text: "The Task Manager App is a cross-platform mobile and web application built with React Native, TypeScript, and Expo, designed to help users efficiently manage their daily tasks. It features a clean, intuitive interface where users can add, complete, and delete tasks with ease, supported by responsive layouts and visual feedback for smooth interaction. The app emphasizes modular design with reusable components, custom hooks, and centralized theming for maintainability. With thoughtful UI/UX principles and a focus on core functionality, this project highlights practical front-end development skills and scalable architecture in a real-world context.",
+        view: "https://www.youtube.com/watch?v=MUgAz5Zm5fA&ab_channel=Anlil",
+        source: "https://github.com/Iwas1512/TaskManager",
+        technologies: ["ReactNative", "React", "CSS", "TypeScript", "Node"]
+    },
+    {
+        imgsrc: pro6,
+        title: "Coding Preperation Study App (In progress, Coming Soon)",
+        text: "I'm building a Reddit-style questions and answers platform using a modern full-stack architecture, collaborating with my development partner Robert to bring this project to life. The application features a robust Node.js and Express.js backend connected to an AWS RDS PostgreSQL database, with a complete RESTful API that handles question creation, retrieval, and management. We're implementing proper database modeling with Sequelize ORM, secure environment configuration, and comprehensive API testing using Postman. This project showcases cloud database integration, scalable backend architecture, and collaborative development practices as we work through the challenges of building a production-ready social platform from the ground up. Looking forward to adding authentication, user management, and a responsive frontend to complete this full-stack application",
+        view: "https://www.youtube.com/@anlil4362",
+        source: "https://github.com/Iwas1512/",
+        technologies: ["React", "Node", "CSS", "TypeScript", "PostgreSQL", "AWS", "Express.js"]
+    },
+    
 ];
 
 export default ProjectCardData;

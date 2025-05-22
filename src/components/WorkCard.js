@@ -22,7 +22,10 @@ import gemini from '../assets/gemini.jpg';
 import googleapi from '../assets/googleapi.png';
 import spigot from '../assets/spidgot.jpg'
 import bukkit from '../assets/bukkit.jpg'
-
+import ReactNativeLogo from '../assets/react-native.png';
+import Typescript from '../assets/typescriptlogo.jpg';
+import Aws from '../assets/Amazon_Web_Services_Logo.svg.png';
+import postSQL from '../assets/postglogo.png';
 
 const WorkCard = (props) => {
   // Function to get the icon based on technology name
@@ -46,7 +49,12 @@ const WorkCard = (props) => {
       GoogleAPI : googleapi,
       GeminiAPI : gemini,
       Spigot : spigot,
-      Bukkit : bukkit
+      Bukkit : bukkit,
+      ReactNative: ReactNativeLogo,
+      TypeScript: Typescript,
+      AWS: Aws,
+      PostgreSQL: postSQL,
+    
 
     };
     
