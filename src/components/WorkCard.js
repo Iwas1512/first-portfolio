@@ -63,7 +63,7 @@ const WorkCard = (props) => {
 
   return (
     <div className="project-card">
-      <h2 className="project-title">{props.title}</h2>
+      <h2 className="project-title" dangerouslySetInnerHTML={{ __html: props.title }}></h2>
       
       {/* Add tech icons below the title */}
       <div className="tech-tags">
@@ -77,7 +77,7 @@ const WorkCard = (props) => {
       
       <img src={props.imgsrc} alt="project" className="project-img"/>
       <div className="pro-details">
-        <p>{props.text}</p>
+        <p dangerouslySetInnerHTML={{ __html: props.text }}></p>
         <div className="pro-btns">
           <NavLink to={props.view} className="btn">View-Video Showcase</NavLink>
           <NavLink to={props.source} className="btn">Source</NavLink>

@@ -3,11 +3,19 @@ import pro2 from '../assets/travbot.webp';
 import pro3 from '../assets/Minecraft.jpg';
 import pro4 from '../assets/portimg.webp';
 import pro5 from '../assets/taskmanagerpic.png';
-import pro6 from '../assets/underconst.jpg'; 
+import pro6 from '../assets/preview.webp'; 
 
 
 
 const ProjectCardData = [
+    {
+        imgsrc: pro6,
+        title: "<a href=\"https://algozero.xyz\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #FF0000; text-decoration: underline;\">AlgoZero</a> - The Interactive Study-Prep Platform with a Community Focus (<a href=\"https://robertprevost.net\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #FF0000;\">ft. Robert</a>)",
+        text: "My partner Robert and I built a free community-driven study platform where users can create custom study sets, contribute questions, earn reputation points, and communicate with other learners. Users can comment on questions, help each other through discussions, build their own study materials, and connect with fellow students in a gamified, collaborative learning environment. Checkout the Live Site at: <a href=\"https://algozero.xyz\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #3498db;\">algozero.xyz</a> and checkout our <a href=\"https://www.youtube.com/watch?v=wtnf5AoE-Xg&list=PLjbg6L1Yw05YUCfBW3N3pSbe_njfqJn5X&ab_channel=Anlil\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #3498db;\">dev log playlist</a>. Partner: <a href=\"https://robertprevost.net\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #3498db;\">Robert's website</a>.",
+        view: "https://www.youtube.com/watch?v=09HM8Mm494k&list=PLjbg6L1Yw05YUCfBW3N3pSbe_njfqJn5X&index=3&ab_channel=Anlil",
+        source: "https://github.com/Iwas1512/",
+        technologies: ["React", "Node", "tailwindCSS", "TypeScript", "PostgreSQL", "AWS", "Express.js"]
+    },
     {
         imgsrc: pro1,
         title: "AniViews:Full-Stack Anime/Shows/Movies List/Review App",
@@ -47,15 +55,8 @@ const ProjectCardData = [
         view: "https://www.youtube.com/watch?v=MUgAz5Zm5fA&ab_channel=Anlil",
         source: "https://github.com/Iwas1512/TaskManager",
         technologies: ["ReactNative", "React", "CSS", "TypeScript", "Node"]
-    },
-    {
-        imgsrc: pro6,
-        title: "Coding Preperation Study App (In progress, Coming Soon)",
-        text: "I'm building a Reddit-style questions and answers platform using a modern full-stack architecture, collaborating with my development partner Robert to bring this project to life. The application features a robust Node.js and Express.js backend connected to an AWS RDS PostgreSQL database, with a complete RESTful API that handles question creation, retrieval, and management. We're implementing proper database modeling with Sequelize ORM, secure environment configuration, and comprehensive API testing using Postman. This project showcases cloud database integration, scalable backend architecture, and collaborative development practices as we work through the challenges of building a production-ready social platform from the ground up. Looking forward to adding authentication, user management, and a responsive frontend to complete this full-stack application",
-        view: "https://www.youtube.com/@anlil4362",
-        source: "https://github.com/Iwas1512/",
-        technologies: ["React", "Node", "CSS", "TypeScript", "PostgreSQL", "AWS", "Express.js"]
-    },
+    }
+    
     
 ];
 
