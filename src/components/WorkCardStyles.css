@@ -81,6 +81,11 @@
     text-align: center;
 }
 
+.project-title a {
+    color: #FFFF00 !important; /* Force yellow color */
+    text-decoration: underline !important; /* Ensure underline */
+}
+
 .project-card:hover .project-title {
     color: #3498db;
 }
@@ -110,6 +115,11 @@
     margin-bottom: 1.5rem;
     font-size: 0.95rem;
     transition: color 0.3s ease;
+}
+
+.pro-details p a {
+    color: #3498db !important; /* Force blue color for description links */
+    text-decoration: underline !important; /* Ensure underline */
 }
 
 .project-card:hover .pro-details p {

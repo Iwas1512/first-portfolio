@@ -26,6 +26,16 @@ import ReactNativeLogo from '../assets/react-native.png';
 import Typescript from '../assets/typescriptlogo.jpg';
 import Aws from '../assets/Amazon_Web_Services_Logo.svg.png';
 import postSQL from '../assets/postglogo.png';
+import lintIcon from '../assets/lint.png';
+import axiosIcon from '../assets/axios.png';
+import githubIcon from '../assets/github.png';
+import gitIcon from '../assets/git.png';
+import sequelizeIcon from '../assets/seq.png';
+import railwayIcon from '../assets/railway.svg';
+import vercelIcon from '../assets/Vercel_favicon.svg';
+import postmanIcon from '../assets/postman.png';
+import nextjsIcon from '../assets/nextjs.png';
+import jwtIcon from '../assets/jwt.png';
 
 const WorkCard = (props) => {
   // Function to get the icon based on technology name
@@ -54,6 +64,16 @@ const WorkCard = (props) => {
       TypeScript: Typescript,
       AWS: Aws,
       PostgreSQL: postSQL,
+      ESLint: lintIcon,
+      Axios: axiosIcon,
+      GitHub: githubIcon,
+      Git: gitIcon,
+      Sequelize: sequelizeIcon,
+      Railway: railwayIcon,
+      Vercel: vercelIcon,
+      Postman: postmanIcon,
+      'Next.js': nextjsIcon,
+      JWT: jwtIcon,
     
 
     };
@@ -68,7 +88,10 @@ const WorkCard = (props) => {
       {/* Add tech icons below the title */}
       <div className="tech-tags">
         {props.technologies && props.technologies.map((tech, index) => (
-          <span key={index} className="tech-tag">
+          <span 
+            key={index} 
+            className="tech-tag"
+          >
             <img src={getTechIcon(tech)} alt={tech} className="tech-icon" />
             {tech}
           </span>

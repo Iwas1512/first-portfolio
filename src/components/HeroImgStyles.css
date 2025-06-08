@@ -368,3 +368,37 @@
       max-width: 800px !important;
     }
   }
+
+.algozero-sticky-note {
+  position: absolute;
+  top: -20px; /* Adjusted from -15px */
+  left: -20px; /* Adjusted from -15px */
+  background-color: #ffeb3b; /* Sticky note yellow */
+  padding: 12px 18px; /* Increased padding */
+  border-radius: 8px;
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3); /* More prominent shadow */
+  transform: rotate(-5deg); /* Slight tilt for a sticky note look */
+  z-index: 5;
+  font-size: 1.1em; /* Increased font size */
+  color: #333;
+  white-space: nowrap;
+  animation: bubble-pulse 2s infinite ease-in-out;
+}
+
+@keyframes bubble-pulse {
+  0% {
+    transform: scale(1) rotate(-5deg);
+  }
+  50% {
+    transform: scale(1.05) rotate(-5deg);
+  }
+  100% {
+    transform: scale(1) rotate(-5deg);
+  }
+}
+
+.algozero-sticky-note a {
+  color: #000;
+  text-decoration: underline;
+  font-weight: bold;
+}

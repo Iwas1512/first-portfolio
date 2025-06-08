@@ -74,6 +74,9 @@ const HeroImg = () => {
       <div className="content">
         <div className="avatar-container">
           <img className="avatar" src={AvatarImg} alt="Anlil Iwas" />
+          <div className="algozero-sticky-note">
+            Checkout <a href="https://algozero.xyz" target="_blank" rel="noopener noreferrer" style={{color: '#000', textDecoration: 'underline'}}>algozero.xyz</a>
+          </div>
         </div>
         <p>ANLIL IWAS</p>
         <h1 className="typed-text">{text}</h1>
